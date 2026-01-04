@@ -4,7 +4,7 @@ A modern, responsive, and interactive personal portfolio website showcasing my s
 
 ## 🚀 Live Demo
 
-**🔗 [View Live Portfolio](https://raw.githubusercontent.com/anmolmishra09/anmolmishra.me/main/favicon_io.zip)**
+**🔗 [View Live Portfolio](https://anmolmishra-me.vercel.app/)**
 
 ## ✨ Features
 
